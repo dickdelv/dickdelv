@@ -10,20 +10,17 @@
 </h5>
 <br>
 <p align="center">
-  Hi, I'm Osman DURDAĞ, Computer Engineer & Software Developer from Turkey
+  Hi, I'm Dickson Delgado, Engineer Of System & Information Technology Management Specialist from Colombian
   <br>
   <br>
-  🎓 I graduated from Black Sea Technical University Computer Engineering Department
+  🎓 I graduated from the Department of Engineering at Simon Bolivar University.
   <br>
-  💻 I love writing code and learn anythings about it
+  💻 I love technology and I am passionate about learning all about it.
   <br>
-  🔬 I’m currently working on Django
+  🔬 I am currently working as a support engineer for the telecommunications company in Bogota
   <br>
-  📚 I’m currently learning how to build E-Commerce Website with Django
+  💬 Ask me about <a href="https://github.com/dickdelv/dickdelv/issues" title="Issues">Here</a>
   <br>
-  💬 Ask me about <a href="https://github.com/zumrudu-anka/zumrudu-anka/issues" title="Issues">Here</a>
-  <br>
-  📫 How to reach me: <a href="mailto: osmandurdag@hotmail.com">osmandurdag@hotmail.com</a>
 </p>
 
 <hr>
