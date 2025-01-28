@@ -24,7 +24,7 @@
   <br>
   💻 I love technology and I am passionate about learning all about it.
   <br>
-  🔬 I am currently working as a support engineer for the telecommunications company in Bogota
+  🔬 I currently work as Development Team Leader for Codesa.
   <br>
   💬 Ask me about <a href="https://github.com/dickdelv/dickdelv/issues" title="Issues">Here</a>
   <br>
